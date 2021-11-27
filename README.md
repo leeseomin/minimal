@@ -6,8 +6,7 @@
 
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min2.png" width="2000">
  
-
-
+````
 
 ### Minimal 3
 
