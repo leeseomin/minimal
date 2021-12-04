@@ -30,6 +30,12 @@
  <br/><br/>
 
 
+### Minimal 12
+
+ <img src="https://github.com/leeseomin/minimal/blob/main/art/min12.png" width="2000">
+ <br/><br/>
+
+
  ### Author and Creator
  
  LEE SEOMIN
