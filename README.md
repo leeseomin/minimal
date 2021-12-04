@@ -48,7 +48,7 @@
  <br/><br/>
  
  
-### Minimal 18
+### Minimal 18 : encounter
 
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min18.png" width="2000">
  <br/><br/>
