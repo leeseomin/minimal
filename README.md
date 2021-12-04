@@ -47,6 +47,11 @@
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min16.png" width="2000">
  <br/><br/>
  
+ 
+### Minimal 18
+
+ <img src="https://github.com/leeseomin/minimal/blob/main/art/min18.png" width="2000">
+ <br/><br/>
 
  ### Author and Creator
  
