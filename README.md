@@ -60,7 +60,7 @@
  <br/><br/>
  
  
-### Minimal 19
+### Minimal 19 : Memoria
 
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min19.png" width="2000">
  <br/><br/> 
