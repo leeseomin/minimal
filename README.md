@@ -78,7 +78,11 @@
 
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min24.png" width="2000">
  <br/><br/>
-  
+ 
+### Minimal 25 : Farming new planet 
+
+ <img src="https://github.com/leeseomin/minimal/blob/main/art/min25.png" width="2000">
+ <br/><br/> 
  
  
  <br/><br/> 
