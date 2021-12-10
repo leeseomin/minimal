@@ -77,6 +77,7 @@
 ### Minimal 24 : Arrived at the new planet
 
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min24.png" width="2000">
+ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4420 
  <br/><br/>
  
 ### Minimal 25 : Farming new planet 
