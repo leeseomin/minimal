@@ -37,6 +37,7 @@
 ### Minimal 12 : The Stranger
 
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min12.png" width="2000">
+ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4418 
  <br/><br/>
 
 
