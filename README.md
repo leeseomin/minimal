@@ -84,6 +84,7 @@
 ### Minimal 25 : Farming new planet 
 
  <img src="https://github.com/leeseomin/minimal/blob/main/art/min25.png" width="2000">
+ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687242?tab=details
  <br/><br/> 
  
  
